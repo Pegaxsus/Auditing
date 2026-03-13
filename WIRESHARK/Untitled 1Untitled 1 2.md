@@ -1,1 +1,0 @@
-> **Navigation:** [Index](00-index) | [Next: Capture Basics →](./02-Capture-Basics)
